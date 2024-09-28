@@ -48,6 +48,8 @@ A simple Node.js-based library management system with **Express.js**, **Mongoose
                       or
     MONGO_URI=mongodb+srv://username:password@cluster0.ocxwbhi.mongodb.net/database_name?authSource=admin
 
+    CORS_ORIGIN=your-cors-origin-secret-key
+
     ```
 
 4. **Run the application:**
