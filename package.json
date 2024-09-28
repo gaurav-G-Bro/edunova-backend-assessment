@@ -1,0 +1,22 @@
+{
+  "name": "edunova-backend-assessment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "nodemon src/index.js"
+  },
+  "author": "Gaurav Kumar",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "edunova-backend-assessment": "file:",
+    "express": "^4.21.0",
+    "moment": "^2.30.1",
+    "mongoose": "^8.6.4",
+    "nodemon": "^3.1.7"
+  }
+}
