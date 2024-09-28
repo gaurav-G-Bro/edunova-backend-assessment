@@ -29,7 +29,7 @@ A simple Node.js-based library management system with **Express.js**, **Mongoose
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/gaurav-G-Bro/edunova-assessment.git
+    git clone https://github.com/gaurav-G-Bro/edunova-backend-assessment.git
     ```
 
 2. **Install the dependencies:**
